@@ -39,6 +39,6 @@ and place the csv file into a folder
 
 # Summary
 1. The modeling using regressing with PCA reduced the accuracy to 2.3% (from the R-Squared) compared to without using PCA but it still higher than using regularized regression.
-2.However, the computation of The modeling using regressing with PCA becomes more efficient because the features could be reduced from 10 to only four features and it was enough to cover 80.92% of information.
+2. However, the computation of The modeling using regressing with PCA becomes more efficient because the features could be reduced from 10 to only four features and it was enough to cover 80.92% of information.
 3. According to Chin (1998), the highest model usually has the r-squared of more than 0.67, which means the combination between each independent variable is strong enough to affect the value of the dependent variable. It implies the modeling using PCA is still categorized as the highest model because the R-Squared is more than 0.67.
 
